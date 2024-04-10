@@ -1,3 +1,4 @@
+#手动版，需要输入域名
 import urllib.request
 from bs4 import BeautifulSoup
 index = 1
