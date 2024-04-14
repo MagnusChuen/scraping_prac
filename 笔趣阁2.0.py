@@ -1,3 +1,4 @@
+#继上一个手动爬取笔趣阁小说的版本后，又写了一个一口气爬取该网站所有小说并打包储存好的程序。因水平有限，所以比较臃肿且速度有些许感人，好在运行起来畅通无阻。恳请各位大佬指导
 import re
 import urllib.request
 from urllib import request
