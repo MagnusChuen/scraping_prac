@@ -1,4 +1,4 @@
-'''纯手搓，暴力好用，可以爬取指定关键词，指定页面数的商品信息。'''
+'''纯手搓，暴力简单且好用，可以爬取指定关键词，指定页面数的商品信息。'''
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
